@@ -1,0 +1,7 @@
+Daleko.txt
+kykla.txt
+pirat.txt
+most.txt
+kalinka.txt
+ny.txt
+russia.txt
